@@ -1,0 +1,4 @@
+Language: Python 2.7
+IDE : Visual Studio 
+
+Impliemented the basic task by using recursive method
